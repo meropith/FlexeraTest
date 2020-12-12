@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TafRSgauZTXjjIolFIknm3pnVpwJlBs+Yt0WuzqAqtDpLETlZQO+w2hh5e3kEPFr21DD2o0n9jMz9g1Tk3r+uw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\MeropiTest\\MeropiTestSln\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g.christoforidis\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\g.christoforidis\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+﻿{
+  "MeropiTestSln": {
+    "commandName": "Project",
+    "launchBrowser": true,
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  },
+  "profiles": {
+    "API": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
