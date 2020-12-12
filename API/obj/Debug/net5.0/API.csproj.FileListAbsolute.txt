@@ -23,3 +23,5 @@ D:\Projects\MeropiTest\MeropiTestSln\API\obj\Debug\net5.0\API.genruntimeconfig.c
 D:\Projects\MeropiTest\MeropiTestSln\API\bin\Debug\net5.0\CsvHelper.dll
 D:\Projects\MeropiTest\MeropiTestSln\API\obj\Debug\net5.0\API.csproj.CopyComplete
 D:\Projects\MeropiTest\MeropiTestSln\API\bin\Debug\net5.0\MoreLinq.dll
+D:\Projects\MeropiTest\MeropiTestSln\API\bin\Debug\net5.0\RestSharp.dll
+D:\Projects\MeropiTest\MeropiTestSln\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
